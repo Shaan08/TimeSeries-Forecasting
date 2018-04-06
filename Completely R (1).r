@@ -167,3 +167,4 @@ plot(forecast(multi_model, xreg = cpu_future))
 #for (i in 1:505){
 #  lines(i:(506+i),exp(frc$infor[,i]),col="red")
 #}
+
