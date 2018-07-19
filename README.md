@@ -15,4 +15,10 @@ ARIMA model implemented
  Auto.ARIMA, AR NN, ARFIMA implemented
 
 12.3.2018
-Sliding Window concept- work in progress
+Implementation done using Forecast package in R
+
+April- June
+Busy with uni work. Could not focus on this.
+
+19.7.2018
+Finished time series prediction using LSTM in python. Need to extend it to forecasting for future time steps.
