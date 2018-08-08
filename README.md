@@ -21,4 +21,7 @@ April- June
 Busy with uni work. Could not focus on this.
 
 19.7.2018
-Finished time series prediction using LSTM in python. Need to extend it to forecasting for future time steps.
+Finished time series prediction using LSTM in python. Tested on the test set. MSE 5.814
+
+8.8.2018
+Created a LSTM model for time series forecasting in future time steps ahead. Validation is WIP
